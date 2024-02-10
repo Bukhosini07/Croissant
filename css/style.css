@@ -1,0 +1,45 @@
+.page-three {
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/114/412/original/Bakery_Croissants.jpg?1707398828");
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.page-one {
+    background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/114/412/original/Bakery_Croissants.jpg?1707398828");
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.page-two { 
+    background: #ab5606;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ h1 {
+    text-align: center;
+}
+
+p {
+    font-weight: bolder;
+    font-size: large;
+}
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 3px; 
+  display: block;
+  margin: 30px auto;
+}
+
+footer {
+  text-align: center;
+}
+footer a {
+  margin: 0 10px;
+  color: black;
+}
+a:hover {
+    color: white;
+}
+
+.email {
+  color: rgb(5, 88, 5);
+}
