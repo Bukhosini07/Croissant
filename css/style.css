@@ -43,3 +43,12 @@ a:hover {
 .email {
   color: rgb(5, 88, 5);
 }
+
+@media (max-width: 576px) {
+ .content {
+  font-size: small;
+ }
+ .contact-info {
+  font-size: small;
+ }
+}
